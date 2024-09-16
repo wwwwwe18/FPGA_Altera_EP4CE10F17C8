@@ -1,5 +1,7 @@
 # FPGA_Altera_EP4CE10F17C8
 
+https://www.alientek.com/Product_Details_17/42.html
+
 ## 1_flow_led
 Date		: 22/07/2024
 Description	: LEDs flash from LED1 to LED4 (0.2s each)
