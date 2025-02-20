@@ -36,4 +36,8 @@ Description	: IP core - PLL
 
 ## 11_ip_1port_ram
 Date		: 20/02/2025
-Description	: IP core - Single port RAM
+Description	: IP core - Single-port RAM
+
+## 12_ip_2port_ram
+Date		: 20/02/2025
+Description	: IP core - Two-port RAM
