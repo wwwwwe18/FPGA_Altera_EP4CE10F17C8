@@ -33,3 +33,7 @@ Description	: Display from 0 to 999999
 ## 10_ip_pll
 Date		: 25/07/2024
 Description	: IP core - PLL
+
+## 11_ip_1port_ram
+Date		: 20/02/2025
+Description	: IP core - Single port RAM
