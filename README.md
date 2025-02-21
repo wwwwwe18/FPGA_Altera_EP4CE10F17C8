@@ -41,3 +41,7 @@ Description	: IP core - Single-port RAM
 ## 12_ip_2port_ram
 Date		: 20/02/2025
 Description	: IP core - Two-port RAM
+
+## 13_ip_fifo
+Date		: 21/02/2025
+Description	: IP core - Asynchronous FIFO
