@@ -45,3 +45,7 @@ Description	: IP core - Two-port RAM
 ## 13_ip_fifo
 Date		: 21/02/2025
 Description	: IP core - Asynchronous FIFO
+
+## 14_uart_loopback_top
+Date		: 22/02/2025
+Description	: UART loopback
