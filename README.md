@@ -49,3 +49,11 @@ Description	: IP core - Asynchronous FIFO
 ## 14_uart_loopback_top
 Date		: 22/02/2025
 Description	: UART loopback
+
+## 16_lcd_rgb_colorbar
+Date		: 23/02/2025
+Description	: Display color bar on LCD
+
+## 17_lcd_rgb_char
+Date		: 23/02/2025
+Description	: Display picture and characters on LCD
