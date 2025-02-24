@@ -57,3 +57,7 @@ Description	: Display color bar on LCD
 ## 17_lcd_rgb_char
 Date		: 23/02/2025
 Description	: Display picture and characters on LCD
+
+## 18_hdmi_colorbar_top
+Date		: 24/02/2025
+Description	: Display color bar via HDMI
