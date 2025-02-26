@@ -61,3 +61,7 @@ Description	: Display picture and characters on LCD
 ## 18_hdmi_colorbar_top
 Date		: 24/02/2025
 Description	: Display color bar via HDMI
+
+## 19_hdmi_block_move_top
+Date		: 24/02/2025
+Description	: Display moving cubic picture via HDMI
